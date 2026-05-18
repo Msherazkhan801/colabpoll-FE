@@ -32,9 +32,9 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-[80vh]">
       
-        <h1 className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-300 text-sm mb-6">
+        <h2 className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-300 text-sm mb-6 text-center">
             Real-time collaborative polling platform
-          </h1>
+          </h2>
        <p className="text-muted mb-8 max-w-xl text-center mb-4">
             Create engaging live polls for conferences, workshops, and team
             discussions. Audience members vote in real time while presenters
